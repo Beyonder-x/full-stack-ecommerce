@@ -57,7 +57,7 @@ const Header = () => {
     <header className='h-16 shadow-md text-white bg-white fixed w-full z-40'>
       <div className=' h-full container mx-auto flex items-center px-4 justify-between'>
         <div className="flex items-center space-x-8">
-        <Link to={"/"}><Logo w={150} h={80}/></Link>
+        <Link to={"/"}><Logo w={150} h={80}/>Shopify</Link>
           <div className="relative">
             <input
               type="text"
